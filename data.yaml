@@ -1,0 +1,5 @@
+train: /Users/boomika/Desktop/kaviya/data/road_cracks/images/train
+val: /Users/boomika/Desktop/kaviya/data/road_cracks/images/val
+
+nc: 4  # Number of classes
+names: ['Longitudinal Crack', 'Transverse Crack', 'Alligator Crack', 'Pothole']  # Class names
